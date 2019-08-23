@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Punto_extra.MainPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <AbsoluteLayout>
+                <Image Source="bg.jpg" AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1"
+                  Aspect="AspectFill"/>
+                <Grid HorizontalOptions="CenterAndExpand"
+              VerticalOptions="CenterAndExpand"
+              AbsoluteLayout.LayoutBounds="0,0,1,1"
+              BackgroundColor="Transparent"
+              AbsoluteLayout.LayoutFlags="All">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.5*"/>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="Here you can place a image"
+               Grid.Column="0"
+               Grid.Row="0"
+               Grid.ColumnSpan="2"
+               FontSize="Title"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Start"
+               />
+
+                    <Button ImageSource="ic_audiotrack"
+                Grid.Column="0"
+                Grid.Row="1"
+                Grid.RowSpan="3"
+                BackgroundColor="Gray"
+                Opacity="0.8"
+                Padding="35"
+                
+                />
+                    <Label Text="Audio"
+                VerticalTextAlignment="End"
+                HorizontalTextAlignment="Center"
+                Grid.Column="0"
+                Grid.Row="3"/>
+
+                    <Button ImageSource="ic_person"
+                Grid.Column="1"
+                Grid.Row="1"
+                Grid.RowSpan="3"
+                BackgroundColor="Gray"
+                Opacity="0.8"
+                />
+                    <Label Text="Crew"
+                VerticalTextAlignment="End"
+                HorizontalTextAlignment="Center"
+                Grid.Column="1"
+                Grid.Row="3"/>
+
+                    <Button ImageSource="ic_gps_fixed"
+                Grid.Column="0"
+                Grid.Row="4"
+                Grid.RowSpan="3"
+                BackgroundColor="Gray"
+                Opacity="0.8"
+                Padding="35"
+                />
+                    <Label Text="Location"
+                VerticalTextAlignment="End"
+                HorizontalTextAlignment="Center"
+                Grid.Column="0"
+                Grid.Row="6"/>
+
+                    <Button ImageSource="ic_cloud"
+                Grid.Column="1"
+                Grid.Row="4"
+                Grid.RowSpan="3"
+                BackgroundColor="Gray"
+                Opacity="0.8"
+                Padding="35"
+                />
+                    <Label Text="Weather"
+                VerticalTextAlignment="End"
+                HorizontalTextAlignment="Center"
+                Grid.Column="1"
+                Grid.Row="6"/>
+
+                </Grid>
+            </AbsoluteLayout>
+        </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>

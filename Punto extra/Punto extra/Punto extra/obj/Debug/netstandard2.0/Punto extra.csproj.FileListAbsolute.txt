@@ -1,0 +1,14 @@
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\bin\Debug\netstandard2.0\Punto extra.deps.json
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\bin\Debug\netstandard2.0\Punto extra.dll
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\bin\Debug\netstandard2.0\ref\Punto extra.dll
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\bin\Debug\netstandard2.0\Punto extra.pdb
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\Punto extra.csprojAssemblyReference.cache
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\Punto extra.csproj.CoreCompileInputs.cache
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\Punto extra.AssemblyInfoInputs.cache
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\Punto extra.AssemblyInfo.cs
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\Punto extra.dll
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\ref\Punto extra.dll
+C:\Users\enman\Documents\Desarrollo\Punto extra\Punto extra\Punto extra\obj\Debug\netstandard2.0\Punto extra.pdb
